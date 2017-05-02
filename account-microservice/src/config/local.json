@@ -1,0 +1,10 @@
+{
+  "user.account.http.address": "localhost",
+  "user.account.http.port": 8081,
+  "api.name": "account",
+  "provider_class": "io.vertx.ext.jdbc.spi.impl.HikariCPDataSourceProvider",
+  "jdbcUrl": "jdbc:mysql://localhost:3306/helper?useUnicode=true&characterEncoding=UTF-8",
+  "username": "root",
+  "password": "funmix",
+  "max_pool_size": 30
+}
